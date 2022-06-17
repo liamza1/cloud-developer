@@ -10,7 +10,7 @@ export const config = {
     "aws_media_bucket": "udagram-filestore-streakl-dev"
   },
   "jwt": {
-    "secret": " "
+    "secret": "notsospecificsecret"
   },
   "prod": {
     "username": "",
